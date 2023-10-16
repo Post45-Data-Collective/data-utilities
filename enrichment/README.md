@@ -1,7 +1,3 @@
-```
-author_viaf` `author_viaf` `author_wikidata` `author_authorized_heading
-```
-
 ### Fields
 
 New fields added by these scripts:
