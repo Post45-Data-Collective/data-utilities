@@ -44,7 +44,27 @@ The idea of a work identifier is fairly new, so the process of creating these id
 
 
 
+If we look at the "book" *Pride and Prejudice* for example we can break it down into these FRBR components. 
 
+**Pride and Prejudice the Work**
+
+This is the highest level conceptually, it represents the content, the story of the idea regardless what language it is in or what edition of the book.
+
+**Pride and Prejudice the Expression**
+
+This is the idea of the work, but expressed in a different language, so the translation of the story into Spanish.
+
+**Pride and Prejudice the Manifestation**
+
+At this level you have a physical example of the "book" a text was produced with a specific ISBN that you can buy in the book store.
+
+**Pride and Prejudice the Item**
+
+The item is a singular individual, one example of the Manifestation, often used in libraries as a holding record, to store things like call number.
+
+
+
+While different systems may blur the lines a bit of what is a Work and Expression, it is pretty clear delineation between a Work and Manifestation, it is the concept of the book vs the actual physical copy you can hold in your hands.
 
 
 
